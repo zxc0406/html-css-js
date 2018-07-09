@@ -4,4 +4,5 @@ it's the third day of my summer holiday.
 but it's the first i begin my study.
 Today i would renew git.
 this is the first change.
-branch test is simple&quick.
+test branch is simple and quick.
+
