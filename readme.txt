@@ -5,4 +5,5 @@ but it's the first i begin my study.
 Today i would renew git.
 this is the first change.
 test branch is simple and quick.
-change on dev branch! 
+change on dev branch!
+fix a bug.
